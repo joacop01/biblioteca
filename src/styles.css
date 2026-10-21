@@ -1,0 +1,348 @@
+@import "tailwindcss";
+@source "../src";
+
+/*
+  Layout concept: one quiet editorial column (label, typed title, search)
+  floating over warm paper, then a full-bleed shelf rail that curves away
+  in perspective. Paper tones, never cold blue. Motion drifts and rises.
+*/
+
+@theme inline {
+  --font-display: "Cormorant Garamond", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --font-sans: "Karla", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "Space Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-glow: var(--glow);
+  --color-paper: var(--paper);
+  --color-shade: var(--shade);
+  --color-light: var(--light);
+  --color-star: var(--star);
+}
+
+:root {
+  --background: oklch(0.895 0.004 95);
+  --foreground: oklch(0.28 0.008 80);
+  --card: oklch(0.925 0.006 90);
+  --card-foreground: oklch(0.28 0.008 80);
+  --popover: oklch(0.955 0.007 88);
+  --popover-foreground: oklch(0.26 0.008 80);
+  --primary: oklch(0.5 0.085 52);
+  --primary-foreground: oklch(0.97 0.008 85);
+  --secondary: oklch(0.86 0.008 88);
+  --secondary-foreground: oklch(0.32 0.01 75);
+  --muted: oklch(0.86 0.006 90);
+  --muted-foreground: oklch(0.47 0.012 75);
+  --accent: oklch(0.8 0.035 70);
+  --accent-foreground: oklch(0.3 0.02 60);
+  --destructive: oklch(0.52 0.16 28);
+  --border: oklch(0.79 0.008 85);
+  --input: oklch(0.82 0.008 85);
+  --ring: oklch(0.5 0.085 52);
+  --glow: oklch(0.975 0.022 82);
+  /* book materials */
+  --paper: oklch(0.935 0.02 86);
+  --shade: oklch(0.16 0.012 60);
+  --light: oklch(0.995 0.008 85);
+  --star: oklch(0.58 0.1 62);
+  color-scheme: light;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scrollbar-gutter: stable;
+    background: var(--background);
+  }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+  ::selection {
+    background: color-mix(in oklch, var(--primary) 28%, transparent);
+    color: var(--foreground);
+  }
+  button {
+    cursor: pointer;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 3px;
+  }
+}
+
+/* SVG fractal noise behind everything: the paper itself */
+@utility grain {
+  position: relative;
+  isolation: isolate;
+  &::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.35;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.1 0 0 0 0 0.08 0 0 0 0 0.06 0 0 0 1.1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility preserve-3d {
+  transform-style: preserve-3d;
+}
+
+/* ---------- motion ---------- */
+
+@keyframes drift {
+  0% {
+    transform: translate3d(-3%, -2%, 0) scale(1);
+  }
+  100% {
+    transform: translate3d(3%, 2.5%, 0) scale(1.08);
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 14px, 0);
+    filter: blur(5px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes caret-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.08;
+  }
+}
+
+/* the gap opens to the spine width while the book glides in from the right */
+@keyframes shelve-in {
+  0% {
+    width: 0;
+    opacity: 0;
+    transform: translate3d(260px, -40px, 140px) rotateY(-58deg) rotate(9deg);
+  }
+  35% {
+    opacity: 1;
+  }
+  72% {
+    width: var(--spine-w);
+    transform: translate3d(-5px, 2px, 10px) rotateY(5deg) rotate(-1.2deg);
+  }
+  100% {
+    width: var(--spine-w);
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes detail-swap-next {
+  from {
+    opacity: 0;
+    transform: translate3d(42px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes detail-swap-prev {
+  from {
+    opacity: 0;
+    transform: translate3d(-42px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@utility animate-drift {
+  animation: drift 34s ease-in-out infinite alternate;
+}
+
+@utility animate-rise {
+  animation: rise 1100ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@utility animate-fade-in {
+  animation: fade-in 700ms ease both;
+}
+
+@utility animate-caret {
+  animation: caret-pulse 1.6s ease-in-out infinite;
+}
+
+@utility animate-shelve-in {
+  animation: shelve-in 1100ms cubic-bezier(0.22, 1, 0.32, 1) both;
+}
+
+@utility animate-swap-next {
+  animation: detail-swap-next 520ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@utility animate-swap-prev {
+  animation: detail-swap-prev 520ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ---------- book materials ---------- */
+
+/* books far outside the rail's viewport keep their slot but skip rendering */
+[data-far] > [data-assembly] {
+  display: none;
+}
+
+@keyframes card-in {
+  from {
+    opacity: 0;
+    translate: 0 8px;
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+@utility animate-card-in {
+  animation: card-in 260ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* cylindrical sheen: a rounded spine catches light a third of the way in */
+.sheen-gloss {
+  background: linear-gradient(
+    90deg,
+    color-mix(in oklch, var(--shade) 34%, transparent) 0%,
+    color-mix(in oklch, var(--shade) 6%, transparent) 13%,
+    color-mix(in oklch, var(--light) 30%, transparent) 29%,
+    color-mix(in oklch, var(--light) 6%, transparent) 44%,
+    color-mix(in oklch, var(--shade) 6%, transparent) 70%,
+    color-mix(in oklch, var(--shade) 36%, transparent) 100%
+  );
+}
+.sheen-matte {
+  background: linear-gradient(
+    90deg,
+    color-mix(in oklch, var(--shade) 28%, transparent) 0%,
+    color-mix(in oklch, var(--shade) 4%, transparent) 17%,
+    color-mix(in oklch, var(--light) 11%, transparent) 34%,
+    color-mix(in oklch, var(--shade) 2%, transparent) 62%,
+    color-mix(in oklch, var(--shade) 30%, transparent) 100%
+  );
+}
+.sheen-cloth {
+  background: linear-gradient(
+    90deg,
+    color-mix(in oklch, var(--shade) 38%, transparent) 0%,
+    color-mix(in oklch, var(--shade) 8%, transparent) 15%,
+    color-mix(in oklch, var(--light) 8%, transparent) 37%,
+    color-mix(in oklch, var(--shade) 6%, transparent) 64%,
+    color-mix(in oklch, var(--shade) 40%, transparent) 100%
+  );
+}
+
+/* surface texture laid over the lettering so the type reads as printed */
+.texture-cloth {
+  background-image:
+    repeating-linear-gradient(0deg, color-mix(in oklch, var(--light) 16%, transparent) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, color-mix(in oklch, var(--shade) 16%, transparent) 0 1px, transparent 1px 3px);
+  mix-blend-mode: multiply;
+  opacity: 0.75;
+}
+.texture-matte,
+.texture-gloss {
+  background-image: url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.15' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.12 0 0 0 0 0.1 0 0 0 0 0.08 0 0 0 0.85 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23p)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+}
+.texture-matte {
+  opacity: 0.32;
+}
+.texture-gloss {
+  opacity: 0.1;
+}
+
+/* sun on the head, scuffs on the edges and the foot */
+.wear {
+  background:
+    linear-gradient(180deg, color-mix(in oklch, var(--light) 42%, transparent) 0%, transparent 26%),
+    linear-gradient(0deg, color-mix(in oklch, var(--shade) 30%, transparent) 0%, transparent 12%),
+    linear-gradient(90deg, color-mix(in oklch, var(--light) 30%, transparent) 0%, transparent 9%, transparent 91%, color-mix(in oklch, var(--light) 26%, transparent) 100%);
+}
+
+/* stacked page edges, seen from the top; the back of the shelf is in shadow */
+.page-edges {
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(0deg, transparent 0%, color-mix(in oklch, var(--shade) 22%, transparent) 50%, color-mix(in oklch, var(--shade) 46%, transparent) 100%),
+    repeating-linear-gradient(90deg, color-mix(in oklch, var(--shade) 10%, transparent) 0 1px, transparent 1px 2px);
+}
+
+.headband {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--band, var(--primary)) 0 2px,
+    var(--paper) 2px 4px
+  );
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-drift,
+  .animate-rise,
+  .animate-fade-in,
+  .animate-caret,
+  .animate-shelve-in,
+  .animate-swap-next,
+  .animate-swap-prev {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
