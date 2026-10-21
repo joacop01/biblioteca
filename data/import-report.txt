@@ -1,6 +1,6 @@
 160 libros en el estante (160 filas read/currently-reading)
 108 con tapa, 52 con tapa tipográfica
-0 consultados en Open Library en esta corrida (offline)
+0 consultados en Open Library en esta corrida
 
 sin tapa: Manual básico de gastronomía científica: Los ingredientes (Ciencia que Ladra…) (Spanish Edition) — Mariana Koppmann
 sin tapa: El queso y los gusanos — Carlo Ginzburg
