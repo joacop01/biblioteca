@@ -520,7 +520,7 @@ async function main() {
   const summary = [
     `${list.length} libros en el estante (${rows.length} filas read/currently-reading)`,
     `${withCover} con tapa, ${list.length - withCover} con tapa tipográfica`,
-    `${fetched} consultados en Open Library en esta corrida${offline ? " (offline)" : ""}`,
+    `${fetched} consultados en Open Library en esta corrida`,
     "",
     ...report,
   ];
