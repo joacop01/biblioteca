@@ -4,7 +4,11 @@
 // Optional: AI_MODEL to pick a model. Without any key the function answers 503
 // and the site quietly keeps its local ranking.
 
-const CATALOGUE_URL = Deno.env.get("CATALOGUE_URL") ?? "__CATALOGUE_URL__";
+// The published site's catalogue (written by scripts/import-goodreads.ts).
+const CATALOGUE_URL = Deno.env.get("CATALOGUE_URL") || "__CATALOGUE_URL__";
+
+const hasKey = () =>
+  Boolean(Deno.env.get("GEMINI_API_KEY") || Deno.env.get("OPENAI_API_KEY") || Deno.env.get("ANTHROPIC_API_KEY"));
 
 type Entry = { id: string; title: string; author: string; year: number; genres?: string[]; blurb: string };
 
@@ -114,6 +118,9 @@ async function rank(query: string, lines: string): Promise<string[] | null> {
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") return new Response("ok", { headers: CORS });
   if (req.method !== "POST") return json({ error: "Usá POST." }, 405);
+  if (!hasKey() || CATALOGUE_URL.startsWith("__")) {
+    return json({ error: "La búsqueda inteligente no está configurada." }, 503);
+  }
 
   const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ?? "anon";
   if (throttled(ip)) return json({ error: "Demasiadas búsquedas seguidas. Probá de nuevo en un minuto." }, 429);
