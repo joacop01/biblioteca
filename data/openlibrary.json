@@ -1,0 +1,2717 @@
+{
+ "books": {
+  "17264": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1136288W",
+   "editionKey": "/books/OL3564414M",
+   "olTitle": "Gravity",
+   "coverId": 313686,
+   "coverSource": "edition",
+   "firstPublishYear": 1961,
+   "pages": 157,
+   "description": "",
+   "subjects": []
+  },
+  "22590": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL2172454W",
+   "editionKey": "/books/OL9155193M",
+   "olTitle": "Ubik",
+   "coverId": 14860755,
+   "coverSource": "edition",
+   "firstPublishYear": 1969,
+   "pages": 297,
+   "description": "",
+   "subjects": []
+  },
+  "30016": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL46398W",
+   "editionKey": null,
+   "olTitle": "The Naked Sun",
+   "coverId": 10528660,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1954,
+   "pages": 226,
+   "description": "",
+   "subjects": []
+  },
+  "41810": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL46377W",
+   "editionKey": "/books/OL7825598M",
+   "olTitle": "The Robots of Dawn",
+   "coverId": 10655835,
+   "coverSource": "edition",
+   "firstPublishYear": 1983,
+   "pages": 448,
+   "description": "",
+   "subjects": []
+  },
+  "42895": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL74128W",
+   "editionKey": "/books/OL9142162M",
+   "olTitle": "A short history of nearly everything",
+   "coverId": 1048164,
+   "coverSource": "edition",
+   "firstPublishYear": 2003,
+   "pages": 640,
+   "description": "",
+   "subjects": []
+  },
+  "53683": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL64365W",
+   "editionKey": "/books/OL9154431M",
+   "olTitle": "Brave New World",
+   "coverId": 15239614,
+   "coverSource": "edition",
+   "firstPublishYear": 1932,
+   "pages": 254,
+   "description": "",
+   "subjects": []
+  },
+  "53687": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL46125W",
+   "editionKey": "/books/OL8361618M",
+   "olTitle": "Foundation",
+   "coverId": 743799,
+   "coverSource": "edition",
+   "firstPublishYear": 1951,
+   "pages": 264,
+   "description": "",
+   "subjects": []
+  },
+  "53694": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL38405085W",
+   "editionKey": null,
+   "olTitle": "Fundación e imperio",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "53696": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL46299W",
+   "editionKey": "/books/OL9112152M",
+   "olTitle": "Forward the Foundation",
+   "coverId": 1046546,
+   "coverSource": "edition",
+   "firstPublishYear": 1993,
+   "pages": 447,
+   "description": "",
+   "subjects": []
+  },
+  "53698": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL46172W",
+   "editionKey": "/books/OL9146091M",
+   "olTitle": "Prelude to Foundation",
+   "coverId": 6711007,
+   "coverSource": "edition",
+   "firstPublishYear": 1988,
+   "pages": 402,
+   "description": "",
+   "subjects": []
+  },
+  "58153": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26391140W",
+   "editionKey": null,
+   "olTitle": "SEGUNDA FUNDACION",
+   "coverId": 12338424,
+   "coverSource": "work",
+   "firstPublishYear": 2008,
+   "pages": 320,
+   "description": "",
+   "subjects": []
+  },
+  "66168": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL46283W",
+   "editionKey": "/books/OL9131310M",
+   "olTitle": "The Bicentennial Man and Other Stories [12 works]",
+   "coverId": 14548797,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1976,
+   "pages": 223,
+   "description": "",
+   "subjects": []
+  },
+  "66249": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1892622W",
+   "editionKey": "/books/OL9145842M",
+   "olTitle": "The Universe in a Nutshell",
+   "coverId": 10724507,
+   "coverSource": "edition",
+   "firstPublishYear": 2000,
+   "pages": 216,
+   "description": "",
+   "subjects": []
+  },
+  "66947": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL166923W",
+   "editionKey": "/books/OL9131504M",
+   "olTitle": "Игрокъ",
+   "coverId": 1047585,
+   "coverSource": "edition",
+   "firstPublishYear": 1866,
+   "pages": 166,
+   "description": "",
+   "subjects": []
+  },
+  "70535": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17365W",
+   "editionKey": null,
+   "olTitle": "2001",
+   "coverId": 6755212,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1968,
+   "pages": 237,
+   "description": "",
+   "subjects": []
+  },
+  "147483": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1168007W",
+   "editionKey": "/books/OL9200480M",
+   "olTitle": "Animal Farm",
+   "coverId": 1055939,
+   "coverSource": "edition",
+   "firstPublishYear": 1945,
+   "pages": 184,
+   "description": "",
+   "subjects": []
+  },
+  "184834": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL278437W",
+   "editionKey": "/books/OL23038029M",
+   "olTitle": "La sombra del viento",
+   "coverId": 10107644,
+   "coverSource": "edition",
+   "firstPublishYear": 2001,
+   "pages": 478,
+   "description": "",
+   "subjects": []
+  },
+  "375802": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL49488W",
+   "editionKey": "/books/OL27900720M",
+   "olTitle": "Ender's Game",
+   "coverId": 9255401,
+   "coverSource": "edition",
+   "firstPublishYear": 1985,
+   "pages": 324,
+   "description": "",
+   "subjects": []
+  },
+  "545005": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL37250514W",
+   "editionKey": null,
+   "olTitle": "Fundación y Tierra",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 1988,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "866618": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL34766796W",
+   "editionKey": null,
+   "olTitle": "El Principito",
+   "coverId": 15108349,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2018,
+   "pages": 110,
+   "description": "",
+   "subjects": []
+  },
+  "1790893": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1319418W",
+   "editionKey": "/books/OL13275022M",
+   "olTitle": "La planète des singes",
+   "coverId": 2154036,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1963,
+   "pages": 208,
+   "description": "",
+   "subjects": []
+  },
+  "1950540": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL103134W",
+   "editionKey": "/books/OL13268317M",
+   "olTitle": "The Martian Chronicles",
+   "coverId": 13147157,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1950,
+   "pages": 272,
+   "description": "",
+   "subjects": []
+  },
+  "2083869": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL381550W",
+   "editionKey": "/books/OL9117419M",
+   "olTitle": "The Island of Dr. Moreau",
+   "coverId": 9041393,
+   "coverSource": "edition",
+   "firstPublishYear": 1896,
+   "pages": 173,
+   "description": "",
+   "subjects": []
+  },
+  "2139323": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL872773W",
+   "editionKey": "/books/OL51172420M",
+   "olTitle": "Der Steppenwolf",
+   "coverId": 14592691,
+   "coverSource": "edition",
+   "firstPublishYear": 1927,
+   "pages": 246,
+   "description": "",
+   "subjects": []
+  },
+  "2212049": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL9148744W",
+   "editionKey": "/books/OL9199688M",
+   "olTitle": "Matematica...Estas Ahi? Episodio 2",
+   "coverId": 2303644,
+   "coverSource": "edition",
+   "firstPublishYear": 2006,
+   "pages": 240,
+   "description": "",
+   "subjects": []
+  },
+  "2212050": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17788246W",
+   "editionKey": "/books/OL26377570M",
+   "olTitle": "Matemáticas estás ahi? Sobre números, personajes, problemas y curiosidades",
+   "coverId": 8067938,
+   "coverSource": "edition",
+   "firstPublishYear": 2006,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "2291769": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26386935W",
+   "editionKey": "/books/OL35627032M",
+   "olTitle": "El elixir de la muerte",
+   "coverId": 12334027,
+   "coverSource": "edition",
+   "firstPublishYear": 2007,
+   "pages": 128,
+   "description": "",
+   "subjects": []
+  },
+  "2538861": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1892617W",
+   "editionKey": "/books/OL26474707M",
+   "olTitle": "A Brief History of Time",
+   "coverId": 8212290,
+   "coverSource": "edition",
+   "firstPublishYear": 1988,
+   "pages": 241,
+   "description": "",
+   "subjects": []
+  },
+  "2606106": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL10144696W",
+   "editionKey": "/books/OL13196040M",
+   "olTitle": "Cielito Lindo/ Beautiful Sky",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2004,
+   "pages": 116,
+   "description": "",
+   "subjects": []
+  },
+  "3235187": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17802896W",
+   "editionKey": "/books/OL26392622M",
+   "olTitle": "Sexo, drogas y biología: y un poco de rock and roll",
+   "coverId": 8087664,
+   "coverSource": "edition",
+   "firstPublishYear": 2006,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "3235197": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL13196001M",
+   "editionKey": "/books/OL13196001M",
+   "olTitle": "Cocinero Cientifico, El",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2002,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "3243922": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL14872792W",
+   "editionKey": "/books/OL9402983M",
+   "olTitle": "Il formaggio e i vermi",
+   "coverId": 8644154,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1976,
+   "pages": 184,
+   "description": "",
+   "subjects": []
+  },
+  "3389955": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL81633W",
+   "editionKey": "/books/OL26205511M",
+   "olTitle": "The Shining",
+   "coverId": 7887552,
+   "coverSource": "edition",
+   "firstPublishYear": 1977,
+   "pages": 651,
+   "description": "",
+   "subjects": []
+  },
+  "3703907": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26382549W",
+   "editionKey": "/books/OL35622243M",
+   "olTitle": "Matematica... estas ahi? Episodio 3",
+   "coverId": 12329367,
+   "coverSource": "edition",
+   "firstPublishYear": 2007,
+   "pages": 240,
+   "description": "",
+   "subjects": []
+  },
+  "5800532": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17535138W",
+   "editionKey": "/books/OL26124774M",
+   "olTitle": "Relatividad Para Principiantes",
+   "coverId": 7771911,
+   "coverSource": "edition",
+   "firstPublishYear": 2009,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "6048505": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL19886084W",
+   "editionKey": "/books/OL27073071M",
+   "olTitle": "Matemática ... estás ahí?",
+   "coverId": 8691700,
+   "coverSource": "edition",
+   "firstPublishYear": 2008,
+   "pages": 255,
+   "description": "",
+   "subjects": []
+  },
+  "6084144": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1892616W",
+   "editionKey": "/books/OL42899575M",
+   "olTitle": "The theory of everything",
+   "coverId": 13806868,
+   "coverSource": "edition",
+   "firstPublishYear": 2002,
+   "pages": 162,
+   "description": "",
+   "subjects": []
+  },
+  "6596839": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL5735363W",
+   "editionKey": null,
+   "olTitle": "The Hunger Games",
+   "coverId": 15168582,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2008,
+   "pages": 397,
+   "description": "",
+   "subjects": []
+  },
+  "7259720": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17862252W",
+   "editionKey": "/books/OL26445475M",
+   "olTitle": "La física en la vida cotidiana - 1. ed.",
+   "coverId": 8165951,
+   "coverSource": "edition",
+   "firstPublishYear": 2007,
+   "pages": 226,
+   "description": "",
+   "subjects": []
+  },
+  "7776692": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL5735360W",
+   "editionKey": null,
+   "olTitle": "Catching Fire",
+   "coverId": 15169846,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2009,
+   "pages": 400,
+   "description": "",
+   "subjects": []
+  },
+  "7804160": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1064277W",
+   "editionKey": "/books/OL28285055M",
+   "olTitle": "Arsène Lupin, gentleman-cambrioleur",
+   "coverId": 10210408,
+   "coverSource": "edition",
+   "firstPublishYear": 1907,
+   "pages": 218,
+   "description": "",
+   "subjects": []
+  },
+  "8121205": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL10253176W",
+   "editionKey": "/books/OL13196003M",
+   "olTitle": "El Desafio del Cangrejo",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2002,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "8563431": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26382529W",
+   "editionKey": "/books/OL35622223M",
+   "olTitle": "Matematica estas ahi? / Volumen 5. La vuelta al mundo en 34 problemas y 8 historias",
+   "coverId": 12329348,
+   "coverSource": "edition",
+   "firstPublishYear": 2010,
+   "pages": 224,
+   "description": "",
+   "subjects": []
+  },
+  "9623430": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL27258W",
+   "editionKey": "/books/OL49350317M",
+   "olTitle": "Neuromancer",
+   "coverId": 14414904,
+   "coverSource": "edition",
+   "firstPublishYear": 1984,
+   "pages": 278,
+   "description": "",
+   "subjects": []
+  },
+  "9905729": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL2010879W",
+   "editionKey": "/books/OL42865536M",
+   "olTitle": "Rich Dad, Poor Dad",
+   "coverId": 13556139,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1990,
+   "pages": 278,
+   "description": "",
+   "subjects": []
+  },
+  "10767632": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "10807233": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL514626W",
+   "editionKey": "/books/OL27086906M",
+   "olTitle": "Six Easy Pieces",
+   "coverId": 8718200,
+   "coverSource": "edition",
+   "firstPublishYear": 1994,
+   "pages": 184,
+   "description": "",
+   "subjects": []
+  },
+  "11858915": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL34970441W",
+   "editionKey": null,
+   "olTitle": "Bóvedas de acero / El sol desnudo",
+   "coverId": 14549029,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1987,
+   "pages": 480,
+   "description": "",
+   "subjects": []
+  },
+  "12124740": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL24244639W",
+   "editionKey": "/books/OL32071655M",
+   "olTitle": "Cuando las rectas se vuelven curvas: las geometrías no euclideas",
+   "coverId": 10724371,
+   "coverSource": "edition",
+   "firstPublishYear": 2011,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "12152172": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17417W",
+   "editionKey": "/books/OL59858788M",
+   "olTitle": "Rendezvous with Rama",
+   "coverId": 15114338,
+   "coverSource": "edition",
+   "firstPublishYear": 1973,
+   "pages": 448,
+   "description": "",
+   "subjects": []
+  },
+  "12319833": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL10253181W",
+   "editionKey": "/books/OL26407428M",
+   "olTitle": "Una Tumba Para Los Romanov/ A Grave for the Romanov",
+   "coverId": 8108120,
+   "coverSource": "edition",
+   "firstPublishYear": 2004,
+   "pages": 124,
+   "description": "",
+   "subjects": []
+  },
+  "13094197": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL16708051W",
+   "editionKey": "/books/OL25204899M",
+   "olTitle": "El prisionero del cielo",
+   "coverId": 7249160,
+   "coverSource": "edition",
+   "firstPublishYear": 1991,
+   "pages": 379,
+   "description": "",
+   "subjects": []
+  },
+  "13343286": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL20023827W",
+   "editionKey": "/books/OL27203878M",
+   "olTitle": "Los remedios de la abuela",
+   "coverId": 11673527,
+   "coverSource": "edition",
+   "firstPublishYear": 2011,
+   "pages": 130,
+   "description": "",
+   "subjects": []
+  },
+  "13644795": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL2172356W",
+   "editionKey": "/books/OL27603069M",
+   "olTitle": "Do Androids Dream of Electric Sheep?",
+   "coverId": 9053396,
+   "coverSource": "edition",
+   "firstPublishYear": 1968,
+   "pages": 224,
+   "description": "",
+   "subjects": []
+  },
+  "15743543": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26392356W",
+   "editionKey": "/books/OL35632768M",
+   "olTitle": "Viaje a las estrellas. De como los hombres midieron el universo",
+   "coverId": 12339720,
+   "coverSource": "edition",
+   "firstPublishYear": 2010,
+   "pages": 128,
+   "description": "",
+   "subjects": []
+  },
+  "16116725": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL16805859W",
+   "editionKey": null,
+   "olTitle": "Reflejos en un ojo dorado",
+   "coverId": 7260384,
+   "coverSource": "work",
+   "firstPublishYear": 2011,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "17281199": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "17374298": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26387385W",
+   "editionKey": "/books/OL35627498M",
+   "olTitle": "El jugador cientifico",
+   "coverId": 12334494,
+   "coverSource": "edition",
+   "firstPublishYear": 2011,
+   "pages": 144,
+   "description": "",
+   "subjects": []
+  },
+  "17565514": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26391461W",
+   "editionKey": "/books/OL35631796M",
+   "olTitle": "La caída de los dioses / The fall of Gods",
+   "coverId": 12338767,
+   "coverSource": "edition",
+   "firstPublishYear": 2012,
+   "pages": 480,
+   "description": "",
+   "subjects": []
+  },
+  "17906284": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL34754691W",
+   "editionKey": "/books/OL47236935M",
+   "olTitle": "El juego del ángel",
+   "coverId": 13678346,
+   "coverSource": "edition",
+   "firstPublishYear": 2013,
+   "pages": 680,
+   "description": "",
+   "subjects": []
+  },
+  "17934824": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17927956W",
+   "editionKey": "/books/OL26500268M",
+   "olTitle": "La física del futuro",
+   "coverId": 8256179,
+   "coverSource": "edition",
+   "firstPublishYear": 2015,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "18275611": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17052519W",
+   "editionKey": "/books/OL25621701M",
+   "olTitle": "Espejismo",
+   "coverId": 7295589,
+   "coverSource": "edition",
+   "firstPublishYear": 2013,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "18407069": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL16816305W",
+   "editionKey": "/books/OL25442644M",
+   "olTitle": "Brilliant Blunders",
+   "coverId": 7276874,
+   "coverSource": "edition",
+   "firstPublishYear": 2013,
+   "pages": 350,
+   "description": "",
+   "subjects": []
+  },
+  "18584825": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL10253182W",
+   "editionKey": null,
+   "olTitle": "Ahi Viene La Plaga",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2004,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "19300278": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL5747128W",
+   "editionKey": "/books/OL33458493M",
+   "olTitle": "The music of the primes",
+   "coverId": 52598,
+   "coverSource": "work",
+   "firstPublishYear": 2003,
+   "pages": 368,
+   "description": "",
+   "subjects": []
+  },
+  "19314754": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL35120684W",
+   "editionKey": null,
+   "olTitle": "LA ECONOMÍA EN UNA LECCIÓN",
+   "coverId": 14110889,
+   "coverSource": "work",
+   "firstPublishYear": 2019,
+   "pages": 240,
+   "description": "",
+   "subjects": []
+  },
+  "20717462": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL19986598W",
+   "editionKey": "/books/OL27166723M",
+   "olTitle": "The pizza bible",
+   "coverId": 14950756,
+   "coverSource": "edition",
+   "firstPublishYear": 2014,
+   "pages": 310,
+   "description": "",
+   "subjects": []
+  },
+  "21398521": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL110971W",
+   "editionKey": null,
+   "olTitle": "Ficciones",
+   "coverId": 14553265,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1945,
+   "pages": 196,
+   "description": "",
+   "subjects": []
+  },
+  "22076994": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17784518W",
+   "editionKey": "/books/OL26373889M",
+   "olTitle": "El Higgs, el universo líquido y el gran colisionador de hadrones",
+   "coverId": 8062968,
+   "coverSource": "edition",
+   "firstPublishYear": 2014,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "22282671": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL35105906W",
+   "editionKey": null,
+   "olTitle": "El futuro de nuestra mente",
+   "coverId": 14092023,
+   "coverSource": "work",
+   "firstPublishYear": 2015,
+   "pages": 480,
+   "description": "",
+   "subjects": []
+  },
+  "22615865": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "22714045": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26390307W",
+   "editionKey": "/books/OL35630587M",
+   "olTitle": "DEMIAN",
+   "coverId": 12337557,
+   "coverSource": "edition",
+   "firstPublishYear": 1900,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "22820681": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17091839W",
+   "editionKey": null,
+   "olTitle": "The Martian",
+   "coverId": 13508042,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2011,
+   "pages": 407,
+   "description": "",
+   "subjects": []
+  },
+  "22857757": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26392708W",
+   "editionKey": "/books/OL35633152M",
+   "olTitle": "¡Qué porquería las hormonas!",
+   "coverId": 12340104,
+   "coverSource": "edition",
+   "firstPublishYear": 2011,
+   "pages": 156,
+   "description": "",
+   "subjects": []
+  },
+  "22857841": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26393163W",
+   "editionKey": "/books/OL35633634M",
+   "olTitle": "Robots. O el sueno eterno de las maquinas inteligentes",
+   "coverId": 12340586,
+   "coverSource": "edition",
+   "firstPublishYear": 2012,
+   "pages": 136,
+   "description": "",
+   "subjects": []
+  },
+  "23508717": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26395654W",
+   "editionKey": "/books/OL35636284M",
+   "olTitle": "Pasaje al futuro",
+   "coverId": 12343214,
+   "coverSource": "edition",
+   "firstPublishYear": 2014,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "23692271": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17075811W",
+   "editionKey": null,
+   "olTitle": "Sapiens",
+   "coverId": 12879721,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2011,
+   "pages": 456,
+   "description": "",
+   "subjects": []
+  },
+  "24685877": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17769876W",
+   "editionKey": null,
+   "olTitle": "Genética : como puede cambiar nuestras vidas",
+   "coverId": 8052976,
+   "coverSource": "work",
+   "firstPublishYear": 2015,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "24965592": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "24995815": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "26824681": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17307997W",
+   "editionKey": "/books/OL25881571M",
+   "olTitle": "materia oscura",
+   "coverId": 7386977,
+   "coverSource": "edition",
+   "firstPublishYear": 2015,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "27153845": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17346434W",
+   "editionKey": null,
+   "olTitle": "La vida secreta de la mente",
+   "coverId": 14000034,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2014,
+   "pages": 288,
+   "description": "",
+   "subjects": []
+  },
+  "27242232": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "27412919": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL31155W",
+   "editionKey": null,
+   "olTitle": "Fermat's Last Theorem",
+   "coverId": 12993781,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1997,
+   "pages": 338,
+   "description": "",
+   "subjects": []
+  },
+  "28360414": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "28371117": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "29993099": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17322249W",
+   "editionKey": null,
+   "olTitle": "Inteligencia matemática",
+   "coverId": 7401175,
+   "coverSource": "work",
+   "firstPublishYear": 2015,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "30174015": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "31674653": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL17788066W",
+   "editionKey": null,
+   "olTitle": "El bosón de Higgs",
+   "coverId": 8067717,
+   "coverSource": "work",
+   "firstPublishYear": 2017,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "31700489": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17599106W",
+   "editionKey": "/books/OL26202625M",
+   "olTitle": "El laberinto de los espíritus",
+   "coverId": 7885414,
+   "coverSource": "edition",
+   "firstPublishYear": 2016,
+   "pages": 928,
+   "description": "",
+   "subjects": []
+  },
+  "31857951": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17595854W",
+   "editionKey": "/books/OL26199192M",
+   "olTitle": "El universo en tu mano",
+   "coverId": 7882629,
+   "coverSource": "edition",
+   "firstPublishYear": 2016,
+   "pages": 464,
+   "description": "",
+   "subjects": []
+  },
+  "32187390": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "32699748": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26395663W",
+   "editionKey": null,
+   "olTitle": "Universos paralelos",
+   "coverId": 12343225,
+   "coverSource": "work",
+   "firstPublishYear": 2019,
+   "pages": 144,
+   "description": "",
+   "subjects": []
+  },
+  "32699804": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "32883703": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "33113531": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL35091064W",
+   "editionKey": "/books/OL47466643M",
+   "olTitle": "Las matemáticas en la guerra",
+   "coverId": 14072844,
+   "coverSource": "edition",
+   "firstPublishYear": 2010,
+   "pages": 224,
+   "description": "",
+   "subjects": []
+  },
+  "33597884": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "34036437": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "34149139": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL26389020W",
+   "editionKey": "/books/OL35629196M",
+   "olTitle": "ESTRATEGIAS",
+   "coverId": 12336196,
+   "coverSource": "edition",
+   "firstPublishYear": 2014,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "34489803": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "34517195": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL675783W",
+   "editionKey": null,
+   "olTitle": "The Handmaid's Tale",
+   "coverId": 15235721,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1985,
+   "pages": 352,
+   "description": "",
+   "subjects": []
+  },
+  "34724998": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "34857097": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26386644W",
+   "editionKey": null,
+   "olTitle": "La Argentina Devorada",
+   "coverId": 12333722,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2017,
+   "pages": 472,
+   "description": "",
+   "subjects": []
+  },
+  "34910695": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL41430135W",
+   "editionKey": null,
+   "olTitle": "Yo, Robot",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2015,
+   "pages": 238,
+   "description": "",
+   "subjects": []
+  },
+  "35031085": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL25595002W",
+   "editionKey": "/books/OL28642473M",
+   "olTitle": "Mary Shelley's Frankenstein; or, the Modern Prometheus (1818 text)",
+   "coverId": 11466753,
+   "coverSource": "edition",
+   "firstPublishYear": 1818,
+   "pages": 288,
+   "description": "",
+   "subjects": []
+  },
+  "35052934": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL25303804W",
+   "editionKey": "/books/OL33887448M",
+   "olTitle": "Inteligencia física",
+   "coverId": 11999193,
+   "coverSource": "edition",
+   "firstPublishYear": 2017,
+   "pages": 160,
+   "description": "",
+   "subjects": []
+  },
+  "35129081": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "35152511": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "35248022": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "35623735": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL34767175W",
+   "editionKey": null,
+   "olTitle": "La Guerra de los Mundos",
+   "coverId": 13499665,
+   "coverSource": "work",
+   "firstPublishYear": 2010,
+   "pages": 216,
+   "description": "",
+   "subjects": []
+  },
+  "36171718": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL34741050W",
+   "editionKey": "/books/OL47089843M",
+   "olTitle": "La Conciencia En El Cerebro",
+   "coverId": 13458119,
+   "coverSource": "edition",
+   "firstPublishYear": 2015,
+   "pages": 384,
+   "description": "",
+   "subjects": []
+  },
+  "36366815": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "36544069": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "36601528": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL34705683W",
+   "editionKey": null,
+   "olTitle": "El retrato de Dorian Gray",
+   "coverId": 15240589,
+   "coverSource": "work",
+   "firstPublishYear": 2002,
+   "pages": 256,
+   "description": "",
+   "subjects": []
+  },
+  "36617747": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26378698W",
+   "editionKey": null,
+   "olTitle": "EINSTEIN PARA PERPLEJOS",
+   "coverId": 12325298,
+   "coverSource": "work",
+   "firstPublishYear": 2014,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "36696699": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17864836W",
+   "editionKey": "/books/OL32208442M",
+   "olTitle": "Cadáver exquisito",
+   "coverId": 13136146,
+   "coverSource": "edition",
+   "firstPublishYear": 2015,
+   "pages": 256,
+   "description": "",
+   "subjects": []
+  },
+  "37654580": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL27678351W",
+   "editionKey": null,
+   "olTitle": "El Universo Elegante",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2012,
+   "pages": 624,
+   "description": "",
+   "subjects": []
+  },
+  "38106292": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL10142246W",
+   "editionKey": "/books/OL12951429M",
+   "olTitle": "Fundamentos de nutricion en el deporte/Foundations of nutrition in sports",
+   "coverId": 5229321,
+   "coverSource": "edition",
+   "firstPublishYear": 2004,
+   "pages": 310,
+   "description": "",
+   "subjects": []
+  },
+  "38326903": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL1909291W",
+   "editionKey": "/books/OL38215229M",
+   "olTitle": "The Fabric of the Cosmos",
+   "coverId": 15169550,
+   "coverSource": "edition",
+   "firstPublishYear": 2004,
+   "pages": 717,
+   "description": "",
+   "subjects": []
+  },
+  "39024741": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL43045845W",
+   "editionKey": null,
+   "olTitle": "Cuanto Pesan Las Nubes",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2018,
+   "pages": 330,
+   "description": "",
+   "subjects": []
+  },
+  "39346460": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17856571W",
+   "editionKey": "/books/OL26440821M",
+   "olTitle": "Lo que no podemos saber. Exploraciones en la frontera del conocimiento",
+   "coverId": 8158512,
+   "coverSource": "edition",
+   "firstPublishYear": 2018,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "40017929": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL6686026W",
+   "editionKey": null,
+   "olTitle": "Forty centuries of wage and price controls",
+   "coverId": 14616632,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1979,
+   "pages": 241,
+   "description": "",
+   "subjects": []
+  },
+  "40038567": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "40524310": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "40569931": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL10253174W",
+   "editionKey": "/books/OL13196002M",
+   "olTitle": "Guerra Biologica y Bioterrorismo",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2002,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "40961427": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL11326416W",
+   "editionKey": null,
+   "olTitle": "1984 (adaptation)",
+   "coverId": 8745958,
+   "coverSource": "work",
+   "firstPublishYear": 2003,
+   "pages": 72,
+   "description": "",
+   "subjects": []
+  },
+  "42195842": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26397020W",
+   "editionKey": null,
+   "olTitle": "EXCURSIONES MATEMATICAS",
+   "coverId": 12344632,
+   "coverSource": "work",
+   "firstPublishYear": 2014,
+   "pages": 160,
+   "description": "",
+   "subjects": []
+  },
+  "42654720": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL1099979W",
+   "editionKey": null,
+   "olTitle": "Viaje Al Centro de La Tierra",
+   "coverId": 1315270,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1969,
+   "pages": 194,
+   "description": "",
+   "subjects": []
+  },
+  "42753231": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "43523420": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "43704988": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL35404161W",
+   "editionKey": null,
+   "olTitle": "La Sociedad Cómplice",
+   "coverId": 14325947,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2019,
+   "pages": 360,
+   "description": "",
+   "subjects": []
+  },
+  "44089742": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "49470695": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "49658534": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "49762210": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26393450W",
+   "editionKey": null,
+   "olTitle": "Vida De Cirujano",
+   "coverId": 12340893,
+   "coverSource": "work",
+   "firstPublishYear": 2014,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "50416316": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "50513955": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26378940W",
+   "editionKey": null,
+   "olTitle": "PELIGRO MATEMATICA EXPLICITA",
+   "coverId": 12325561,
+   "coverSource": "work",
+   "firstPublishYear": 2019,
+   "pages": 288,
+   "description": "",
+   "subjects": []
+  },
+  "51219756": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL20825306W",
+   "editionKey": "/books/OL28192979M",
+   "olTitle": "Balada de pájaros cantores y serpientes",
+   "coverId": 10129068,
+   "coverSource": "edition",
+   "firstPublishYear": 2020,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "52481340": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "52825406": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL22160090W",
+   "editionKey": "/books/OL30194314M",
+   "olTitle": "NeuroScience Fiction : From 2001",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2020,
+   "pages": 380,
+   "description": "",
+   "subjects": []
+  },
+  "54493401": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL21745884W",
+   "editionKey": "/books/OL30036715M",
+   "olTitle": "Project Hail Mary",
+   "coverId": 12455001,
+   "coverSource": "edition",
+   "firstPublishYear": 2021,
+   "pages": 496,
+   "description": "",
+   "subjects": []
+  },
+  "54738094": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "54907438": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "56302573": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL103123W",
+   "editionKey": null,
+   "olTitle": "Fahrenheit 451",
+   "coverId": 15140929,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 1953,
+   "pages": 188,
+   "description": "",
+   "subjects": []
+  },
+  "56340289": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "56420157": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL24230447W",
+   "editionKey": "/books/OL32034026M",
+   "olTitle": "La Biblioteca de la Medianoche",
+   "coverId": 10701377,
+   "coverSource": "edition",
+   "firstPublishYear": 2021,
+   "pages": 336,
+   "description": "",
+   "subjects": []
+  },
+  "57299481": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL21745884W",
+   "editionKey": "/books/OL32849663M",
+   "olTitle": "Project Hail Mary",
+   "coverId": 11482074,
+   "coverSource": "edition",
+   "firstPublishYear": 2021,
+   "pages": 406,
+   "description": "",
+   "subjects": []
+  },
+  "57941701": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL24217656W",
+   "editionKey": "/books/OL34175851M",
+   "olTitle": "The Code Breaker",
+   "coverId": 10675496,
+   "coverSource": "work",
+   "firstPublishYear": 2001,
+   "pages": 576,
+   "description": "",
+   "subjects": []
+  },
+  "59537887": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL14908941W",
+   "editionKey": null,
+   "olTitle": "Mockingjay",
+   "coverId": 15169884,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2010,
+   "pages": 424,
+   "description": "",
+   "subjects": []
+  },
+  "61967442": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL17346434W",
+   "editionKey": "/books/OL39682838M",
+   "olTitle": "La vida secreta de la mente",
+   "coverId": 13086614,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2014,
+   "pages": 288,
+   "description": "",
+   "subjects": []
+  },
+  "62433898": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "64949102": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL26382038W",
+   "editionKey": null,
+   "olTitle": "Crimen y castigo",
+   "coverId": 15159527,
+   "coverSource": "spanish-edition",
+   "firstPublishYear": 2012,
+   "pages": 800,
+   "description": "",
+   "subjects": []
+  },
+  "125468031": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL34997343W",
+   "editionKey": "/books/OL47361673M",
+   "olTitle": "Planeta pan",
+   "coverId": 13954528,
+   "coverSource": "edition",
+   "firstPublishYear": 2023,
+   "pages": 248,
+   "description": "",
+   "subjects": []
+  },
+  "128447499": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL31969066W",
+   "editionKey": null,
+   "olTitle": "Los límites de La Fundación",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "182143222": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "202885024": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL42559701W",
+   "editionKey": null,
+   "olTitle": "Manual Básico de Gastronomía Científica",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": 2024,
+   "pages": 288,
+   "description": "",
+   "subjects": []
+  },
+  "204927599": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "isbn",
+   "workKey": "/works/OL37826293W",
+   "editionKey": "/books/OL51102784M",
+   "olTitle": "Nexus",
+   "coverId": 14812834,
+   "coverSource": "edition",
+   "firstPublishYear": 2024,
+   "pages": 524,
+   "description": "",
+   "subjects": []
+  },
+  "209013937": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "213939145": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "220471102": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  },
+  "243078312": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": "search",
+   "workKey": "/works/OL44325799W",
+   "editionKey": null,
+   "olTitle": "Hands-On Machine Learning with Scikit-Learn and PyTorch",
+   "coverId": 15138297,
+   "coverSource": "work",
+   "firstPublishYear": 2025,
+   "pages": 875,
+   "description": "",
+   "subjects": []
+  },
+  "248967054": {
+   "fetchedAt": "2026-10-21T03:50:00.000Z",
+   "matchedBy": null,
+   "workKey": null,
+   "editionKey": null,
+   "olTitle": "",
+   "coverId": null,
+   "coverSource": null,
+   "firstPublishYear": null,
+   "pages": null,
+   "description": "",
+   "subjects": []
+  }
+ },
+ "palettes": {
+  "52598": {
+   "spine": "#b7b0aa",
+   "band": "#af2e41",
+   "ink": "#241f19"
+  },
+  "313686": {
+   "spine": "#52746d",
+   "band": "#89e7fd",
+   "ink": "#faf7f0"
+  },
+  "743799": {
+   "spine": "#221532",
+   "band": "#f2ed08",
+   "ink": "#faf7f0"
+  },
+  "1046546": {
+   "spine": "#5f6797",
+   "band": "#c96834",
+   "ink": "#faf7f0"
+  },
+  "1047415": {
+   "spine": "#404238",
+   "band": "#c2b33a",
+   "ink": "#faf7f0"
+  },
+  "1047585": {
+   "spine": "#c4cba1",
+   "band": "#eebe74",
+   "ink": "#241f19"
+  },
+  "1048164": {
+   "spine": "#241a1d",
+   "band": "#462876",
+   "ink": "#faf7f0"
+  },
+  "1055939": {
+   "spine": "#795c72",
+   "band": "#e9150f",
+   "ink": "#faf7f0"
+  },
+  "1315270": {
+   "spine": "#ae7f4b",
+   "band": "#fbd171",
+   "ink": "#faf7f0"
+  },
+  "2154036": {
+   "spine": "#7a858d",
+   "band": "#fdc365",
+   "ink": "#faf7f0"
+  },
+  "2303644": {
+   "spine": "#514835",
+   "band": "#e48a0a",
+   "ink": "#faf7f0"
+  },
+  "4918284": {
+   "spine": "#322d47",
+   "band": "#ee9802",
+   "ink": "#faf7f0"
+  },
+  "5229321": {
+   "spine": "#f3f5f4",
+   "band": "#0079cb",
+   "ink": "#241f19"
+  },
+  "5730733": {
+   "spine": "#131027",
+   "band": "#2d1e5d",
+   "ink": "#faf7f0"
+  },
+  "6711007": {
+   "spine": "#2d4056",
+   "band": "#f9ea07",
+   "ink": "#faf7f0"
+  },
+  "6755212": {
+   "spine": "#929389",
+   "band": "#95867d",
+   "ink": "#241f19"
+  },
+  "7249160": {
+   "spine": "#706255",
+   "band": "#d38d5f",
+   "ink": "#faf7f0"
+  },
+  "7260384": {
+   "spine": "#fbfafb",
+   "band": "#9c484f",
+   "ink": "#241f19"
+  },
+  "7276874": {
+   "spine": "#000d20",
+   "band": "#01a7cd",
+   "ink": "#faf7f0"
+  },
+  "7292949": {
+   "spine": "#c3c7c4",
+   "band": "#0d6caf",
+   "ink": "#241f19"
+  },
+  "7295589": {
+   "spine": "#4f6f67",
+   "band": "#2ab4db",
+   "ink": "#faf7f0"
+  },
+  "7386977": {
+   "spine": "#ffffff",
+   "band": "#015695",
+   "ink": "#241f19"
+  },
+  "7401175": {
+   "spine": "#e9cfd0",
+   "band": "#a70810",
+   "ink": "#241f19"
+  },
+  "7771911": {
+   "spine": "#c5b697",
+   "band": "#f7990f",
+   "ink": "#241f19"
+  },
+  "7882629": {
+   "spine": "#14384a",
+   "band": "#f66400",
+   "ink": "#faf7f0"
+  },
+  "7885414": {
+   "spine": "#c3c4c3",
+   "band": "#b0885e",
+   "ink": "#241f19"
+  },
+  "7887552": {
+   "spine": "#859197",
+   "band": "#1e4c68",
+   "ink": "#241f19"
+  },
+  "8052976": {
+   "spine": "#76b213",
+   "band": "#9fc601",
+   "ink": "#241f19"
+  },
+  "8062968": {
+   "spine": "#85504e",
+   "band": "#f98b2c",
+   "ink": "#faf7f0"
+  },
+  "8067717": {
+   "spine": "#334723",
+   "band": "#ffd700",
+   "ink": "#faf7f0"
+  },
+  "8067938": {
+   "spine": "#301903",
+   "band": "#fdf701",
+   "ink": "#faf7f0"
+  },
+  "8087664": {
+   "spine": "#626256",
+   "band": "#f1096d",
+   "ink": "#faf7f0"
+  },
+  "8108120": {
+   "spine": "#6e6d62",
+   "band": "#5b5b58",
+   "ink": "#faf7f0"
+  },
+  "8158512": {
+   "spine": "#286537",
+   "band": "#e72818",
+   "ink": "#faf7f0"
+  },
+  "8162228": {
+   "spine": "#561d16",
+   "band": "#1c79af",
+   "ink": "#faf7f0"
+  },
+  "8165951": {
+   "spine": "#646d5a",
+   "band": "#a54c15",
+   "ink": "#faf7f0"
+  },
+  "8212290": {
+   "spine": "#605b67",
+   "band": "#8a97df",
+   "ink": "#faf7f0"
+  },
+  "8256179": {
+   "spine": "#3379a9",
+   "band": "#0b71af",
+   "ink": "#faf7f0"
+  },
+  "8644154": {
+   "spine": "#ffffff",
+   "band": "#9a9794",
+   "ink": "#241f19"
+  },
+  "8691700": {
+   "spine": "#ffffff",
+   "band": "#9a9794",
+   "ink": "#241f19"
+  },
+  "8718200": {
+   "spine": "#ffffff",
+   "band": "#9a9794",
+   "ink": "#241f19"
+  },
+  "8745958": {
+   "spine": "#ab655a",
+   "band": "#e3a24b",
+   "ink": "#faf7f0"
+  },
+  "9041393": {
+   "spine": "#d89120",
+   "band": "#ed9717",
+   "ink": "#241f19"
+  },
+  "9053396": {
+   "spine": "#515e06",
+   "band": "#ddff00",
+   "ink": "#faf7f0"
+  },
+  "9255401": {
+   "spine": "#010105",
+   "band": "#065098",
+   "ink": "#faf7f0"
+  },
+  "9267242": {
+   "spine": "#756b5d",
+   "band": "#a99d88",
+   "ink": "#faf7f0"
+  },
+  "10107644": {
+   "spine": "#9eaeca",
+   "band": "#4095ff",
+   "ink": "#241f19"
+  },
+  "10129068": {
+   "spine": "#040404",
+   "band": "#43912c",
+   "ink": "#faf7f0"
+  },
+  "10210408": {
+   "spine": "#2f0e0a",
+   "band": "#701c09",
+   "ink": "#faf7f0"
+  },
+  "10528463": {
+   "spine": "#734e58",
+   "band": "#f92e00",
+   "ink": "#faf7f0"
+  },
+  "10528660": {
+   "spine": "#55523b",
+   "band": "#dd6e1a",
+   "ink": "#faf7f0"
+  },
+  "10553912": {
+   "spine": "#adaa96",
+   "band": "#913e49",
+   "ink": "#241f19"
+  },
+  "10655835": {
+   "spine": "#2b140c",
+   "band": "#a89501",
+   "ink": "#faf7f0"
+  },
+  "10675496": {
+   "spine": "#030504",
+   "band": "#572c3f",
+   "ink": "#faf7f0"
+  },
+  "10701377": {
+   "spine": "#131418",
+   "band": "#f1d037",
+   "ink": "#faf7f0"
+  },
+  "10724371": {
+   "spine": "#242724",
+   "band": "#d7972e",
+   "ink": "#faf7f0"
+  },
+  "10724507": {
+   "spine": "#d7d1c6",
+   "band": "#d0c176",
+   "ink": "#241f19"
+  },
+  "11466753": {
+   "spine": "#303027",
+   "band": "#ac4a3c",
+   "ink": "#faf7f0"
+  },
+  "11482074": {
+   "spine": "#5d5325",
+   "band": "#ceb842",
+   "ink": "#faf7f0"
+  },
+  "11673527": {
+   "spine": "#545351",
+   "band": "#9f271b",
+   "ink": "#faf7f0"
+  },
+  "11999193": {
+   "spine": "#f2d7d8",
+   "band": "#b60811",
+   "ink": "#241f19"
+  },
+  "12325298": {
+   "spine": "#ececec",
+   "band": "#8f8d8a",
+   "ink": "#241f19"
+  },
+  "12325561": {
+   "spine": "#ffffff",
+   "band": "#fcbb30",
+   "ink": "#241f19"
+  },
+  "12329348": {
+   "spine": "#636457",
+   "band": "#f7d161",
+   "ink": "#faf7f0"
+  },
+  "12329367": {
+   "spine": "#636358",
+   "band": "#eecf7d",
+   "ink": "#faf7f0"
+  },
+  "12333722": {
+   "spine": "#ffffff",
+   "band": "#6f5b43",
+   "ink": "#241f19"
+  },
+  "12334027": {
+   "spine": "#fadade",
+   "band": "#fe4851",
+   "ink": "#241f19"
+  },
+  "12334494": {
+   "spine": "#8c8c80",
+   "band": "#f3529a",
+   "ink": "#faf7f0"
+  },
+  "12336196": {
+   "spine": "#ececec",
+   "band": "#8f8d8a",
+   "ink": "#241f19"
+  },
+  "12337557": {
+   "spine": "#926541",
+   "band": "#822510",
+   "ink": "#faf7f0"
+  },
+  "12338424": {
+   "spine": "#22244f",
+   "band": "#06bced",
+   "ink": "#faf7f0"
+  },
+  "12338767": {
+   "spine": "#6b5761",
+   "band": "#ba90a4",
+   "ink": "#faf7f0"
+  },
+  "12339720": {
+   "spine": "#676253",
+   "band": "#f292d1",
+   "ink": "#faf7f0"
+  },
+  "12340104": {
+   "spine": "#353306",
+   "band": "#f72f35",
+   "ink": "#faf7f0"
+  },
+  "12340586": {
+   "spine": "#67675c",
+   "band": "#dbda57",
+   "ink": "#faf7f0"
+  },
+  "12340893": {
+   "spine": "#ececec",
+   "band": "#8f8d8a",
+   "ink": "#241f19"
+  },
+  "12343214": {
+   "spine": "#3c3c3c",
+   "band": "#e15d26",
+   "ink": "#faf7f0"
+  },
+  "12343225": {
+   "spine": "#261b45",
+   "band": "#b83890",
+   "ink": "#faf7f0"
+  },
+  "12344632": {
+   "spine": "#d1c0a0",
+   "band": "#ffb341",
+   "ink": "#241f19"
+  },
+  "12455001": {
+   "spine": "#60511b",
+   "band": "#c7a61b",
+   "ink": "#faf7f0"
+  },
+  "12707798": {
+   "spine": "#373e37",
+   "band": "#e1c33b",
+   "ink": "#faf7f0"
+  },
+  "12879721": {
+   "spine": "#f5efe1",
+   "band": "#7e9577",
+   "ink": "#241f19"
+  },
+  "12993781": {
+   "spine": "#817844",
+   "band": "#b49819",
+   "ink": "#faf7f0"
+  },
+  "13086614": {
+   "spine": "#e0dec9",
+   "band": "#cc636b",
+   "ink": "#241f19"
+  },
+  "13096557": {
+   "spine": "#c6b90f",
+   "band": "#e9d700",
+   "ink": "#241f19"
+  },
+  "13136146": {
+   "spine": "#690407",
+   "band": "#e50009",
+   "ink": "#faf7f0"
+  },
+  "13147157": {
+   "spine": "#fbfcfb",
+   "band": "#f3770d",
+   "ink": "#241f19"
+  },
+  "13458119": {
+   "spine": "#feec91",
+   "band": "#f79754",
+   "ink": "#241f19"
+  },
+  "13499665": {
+   "spine": "#e77b1b",
+   "band": "#fdc709",
+   "ink": "#faf7f0"
+  },
+  "13508042": {
+   "spine": "#2e2d29",
+   "band": "#91821e",
+   "ink": "#faf7f0"
+  },
+  "13556139": {
+   "spine": "#503833",
+   "band": "#f4d900",
+   "ink": "#faf7f0"
+  },
+  "13678346": {
+   "spine": "#b1301e",
+   "band": "#cd2914",
+   "ink": "#faf7f0"
+  },
+  "13806868": {
+   "spine": "#6e8ba6",
+   "band": "#7e788f",
+   "ink": "#faf7f0"
+  },
+  "13954528": {
+   "spine": "#685a4b",
+   "band": "#b27c21",
+   "ink": "#faf7f0"
+  },
+  "14000034": {
+   "spine": "#e1d1c4",
+   "band": "#c63634",
+   "ink": "#241f19"
+  },
+  "14072844": {
+   "spine": "#e4dacf",
+   "band": "#b4bb4f",
+   "ink": "#241f19"
+  },
+  "14092023": {
+   "spine": "#123e69",
+   "band": "#01a8e1",
+   "ink": "#faf7f0"
+  },
+  "14110889": {
+   "spine": "#f4f0dc",
+   "band": "#f2e34c",
+   "ink": "#241f19"
+  },
+  "14325947": {
+   "spine": "#918675",
+   "band": "#f0bb97",
+   "ink": "#faf7f0"
+  },
+  "14414904": {
+   "spine": "#b58486",
+   "band": "#fa845e",
+   "ink": "#241f19"
+  },
+  "14548797": {
+   "spine": "#485940",
+   "band": "#cb7f34",
+   "ink": "#faf7f0"
+  },
+  "14549029": {
+   "spine": "#ab8168",
+   "band": "#fac50e",
+   "ink": "#faf7f0"
+  },
+  "14553265": {
+   "spine": "#7f7873",
+   "band": "#987e6a",
+   "ink": "#faf7f0"
+  },
+  "14592691": {
+   "spine": "#caad8c",
+   "band": "#f4974e",
+   "ink": "#241f19"
+  },
+  "14616632": {
+   "spine": "#8a4732",
+   "band": "#a81d1c",
+   "ink": "#faf7f0"
+  },
+  "14812834": {
+   "spine": "#fbf7ed",
+   "band": "#e33e2a",
+   "ink": "#241f19"
+  },
+  "14860755": {
+   "spine": "#f3b959",
+   "band": "#fdad2d",
+   "ink": "#241f19"
+  },
+  "14950756": {
+   "spine": "#ffffff",
+   "band": "#d05840",
+   "ink": "#241f19"
+  },
+  "15088431": {
+   "spine": "#010101",
+   "band": "#f1b804",
+   "ink": "#faf7f0"
+  },
+  "15108349": {
+   "spine": "#7d7872",
+   "band": "#634a36",
+   "ink": "#faf7f0"
+  },
+  "15114338": {
+   "spine": "#5a565d",
+   "band": "#6ba5cd",
+   "ink": "#faf7f0"
+  },
+  "15138297": {
+   "spine": "#f8f7f6",
+   "band": "#ac6b47",
+   "ink": "#241f19"
+  },
+  "15140929": {
+   "spine": "#f0a49e",
+   "band": "#f7bb44",
+   "ink": "#241f19"
+  },
+  "15159527": {
+   "spine": "#b93b2b",
+   "band": "#c43023",
+   "ink": "#faf7f0"
+  },
+  "15168582": {
+   "spine": "#c7bdb5",
+   "band": "#69220c",
+   "ink": "#241f19"
+  },
+  "15169550": {
+   "spine": "#000000",
+   "band": "#8eabbc",
+   "ink": "#faf7f0"
+  },
+  "15169846": {
+   "spine": "#dcd6d3",
+   "band": "#721c0d",
+   "ink": "#241f19"
+  },
+  "15169884": {
+   "spine": "#0b0e12",
+   "band": "#32a0d8",
+   "ink": "#faf7f0"
+  },
+  "15235721": {
+   "spine": "#afa391",
+   "band": "#8e1815",
+   "ink": "#241f19"
+  },
+  "15239614": {
+   "spine": "#d6cba7",
+   "band": "#dca65d",
+   "ink": "#241f19"
+  },
+  "15240589": {
+   "spine": "#513a1f",
+   "band": "#c4a45e",
+   "ink": "#faf7f0"
+  }
+ }
+}

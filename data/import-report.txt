@@ -1,0 +1,60 @@
+160 libros en el estante (160 filas read/currently-reading)
+108 con tapa, 52 con tapa tipográfica
+0 consultados en Open Library en esta corrida (offline)
+
+sin tapa: Manual básico de gastronomía científica: Los ingredientes (Ciencia que Ladra…) (Spanish Edition) — Mariana Koppmann
+sin tapa: El queso y los gusanos — Carlo Ginzburg
+sin tapa: El cocinero científico: cuando la ciencia se mete en la cocina — Diego Golombek
+sin coincidencia en Open Library: Planeta pizza: Recetas, técnicas y trucos para hacer las mejores pizzas en casa — Edu Lavandeira
+sin tapa: NeuroScience Fiction — Rodrigo Quian Quiroga
+sin coincidencia en Open Library: La sociedad del cansancio — Byung-Chul Han
+sin coincidencia en Open Library: Manual aplicado de gastronomía científica: Los procedimientos (Ciencia que Ladra…) (Spanish Edition) — Mariana Koppmann
+sin tapa: Vida de cirujano — Juan Carlos Parodi
+sin coincidencia en Open Library: Más allá del modelo estándar de partículas: los engranajes ocultos del universo — Òscar Vives
+sin coincidencia en Open Library: Amanecer en la cosecha (Los juegos del hambre) — Suzanne Collins
+sin tapa: El poder de las palabras — Mariano Sigman
+sin coincidencia en Open Library: Placer y recompensa. Los mecanismos de la motivación — Javier Correas Lauffer
+sin coincidencia en Open Library: ¿Por qué hay algo en lugar de nada? — José Rodríguez-Quintero
+sin coincidencia en Open Library: Epilepsia y sincronización cerebral: una aproximación rigurosa y amena a uno de los trastornos neurológicos más comunes — Julia Guiomar Niso Galán
+sin coincidencia en Open Library: Los robots y el Imperio — Isaac Asimov
+sin tapa: Funes el Memorioso — Jorge Luis Borges
+sin coincidencia en Open Library: Qué es la memoria — Rodrigo Quian Quiroga
+sin coincidencia en Open Library: Mapas del metro y redes neuronales : la teoría de grafos (El mundo es matemático) — Claudi Alsina
+sin tapa: 2001: A Space Odyssey (Space Odyssey, #1) — Arthur C. Clarke
+sin tapa: Seis piezas faciles. La fisica explicada por un genio — Richard P. Feynman
+sin coincidencia en Open Library: El modelo estándar de partículas. Los pilares de la materia — Mario E. Gómez Santamaría
+sin coincidencia en Open Library: Todo lo que necesitas saber sobre ciencia — FEDERICO KUSKO
+sin coincidencia en Open Library: El final del Universo. ¿Qué destino le espera al cosmos? — Miguel Ángel Sánchez Quintanilla
+sin coincidencia en Open Library: El Problema más Difícil del Mundo, Fermat, El Teorema de Fermat — Luis Fernando Areán Álvarez
+sin coincidencia en Open Library: La nanotecnologia — Antonio J. Acosta
+sin tapa: Cielito lindo: Astronomía a simple vista — Elsa Rosenvasser Feher
+sin tapa: Guerra biológica y bioterrorismo — Martín Lema
+sin tapa: Einstein para perplejos — José Edelstein
+sin tapa: El desafío del cangrejo: Avances en el conocimiento, prevención y tratamiento del cáncer — Daniel F. Alonso
+sin coincidencia en Open Library: Cuerdas y supercuerdas — José Edelstein
+sin coincidencia en Open Library: Espacio-tiempo cuántico. En busca de una teoría del todo — Arturo Quirantes
+sin coincidencia en Open Library: Manual del Astrónomo Aficionado — Enzo De Bernardini
+sin coincidencia en Open Library: Astrofísica para gente apurada — Neil deGrasse Tyson
+sin coincidencia en Open Library: Grandes avances de la humanidad — Johan Norberg
+sin tapa: Matemática... ¿Estás ahí? Episodio 100 — Adrián Paenza
+sin coincidencia en Open Library: La matemática del futuro (Spanish Edition) — Adrián Paenza
+sin tapa: Estrategias: La potencia de la matemática para resolver problemas de la vida cotidiana — Adrián Paenza
+sin coincidencia en Open Library: La gran novela de las matemáticas: De la prehistoria a la actualidad (Contextos) (Spanish Edition) — Mickaël Launay
+sin coincidencia en Open Library: Guía para sobrevivir al presente: Atrapados en la era digital — Santiago Bilinkis
+sin coincidencia en Open Library: Había una vez el átomo: O cómo los científicos imaginan lo invisible (Ciencia que ladra… serie Clásica) (Spanish Edition) — Gabriel Gellon
+sin tapa: Ahí viene la plaga — Mario Lozano
+sin coincidencia en Open Library: Qué es la nanotecnología (¿Qué es?) (Spanish Edition) — Galo Juan de Avila Arturo Soler Illia
+sin coincidencia en Open Library: 7R: Las siete revoluciones tecnológicas que transformarán nuestra vida (Spanish Edition) — Joan Cwaik
+sin tapa: ¿Cuánto pesan las nubes? (Spanish Edition) — David Calle
+sin coincidencia en Open Library: Diez preguntas que la ciencia (todavía) no puede contestar (Spanish Edition) — Nora Lía Bär
+sin coincidencia en Open Library: Los agujeros negros — Antxon Alberdi Odriozola
+sin coincidencia en Open Library: El bosón de Higgs. Los secretos de la partícula divina (Un paseo por el Cosmos #4) — David Blanco Laserna
+sin coincidencia en Open Library: Los neutrinos — Juan Antonio Caballero
+sin coincidencia en Open Library: Heisenberg: El principio de incertidumbre. Existe el mundo cuando no lo miras. (Grandes Ideas de la Ciencia, #5) — Jesús Navarro Faus
+sin coincidencia en Open Library: Newton, La ley de la gravedad. La fuerza más atractiva del universo — Antonio J. Durán Guardeño
+sin coincidencia en Open Library: Max Planck: la teoría cuántica. La revolución de lo muy pequeño. (Grandes Ideas de la Ciencia, #3) — Alberto Tomás Pérez Izquierdo
+sin coincidencia en Open Library: Boltzmann. La termodinámica y la entropía. El universo morirá de frío.  (Grandes Ideas de la Ciencia #21) — Roger Leiton
+sin coincidencia en Open Library: Feynman. La electrodinámica cuántica. Cuando un fotón conoce a un electrón  (Grandes Ideas de la Ciencia #16) — Miguel Ángel Sabadell
+sin coincidencia en Open Library: Schrödinger. Las paradojas cuánticas. El universo está en la onda — David Blanco Laserna
+sin coincidencia en Open Library: Lo spazio è una questione di tempo. Einstein: la teoria della relatività — David Blanco Laserna
+sin coincidencia en Open Library: Los exoplanetas: otras tierras en torno a otros soles — Arturo Quirantes Sierra

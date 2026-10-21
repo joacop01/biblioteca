@@ -334,7 +334,17 @@ async function lookup(row: Row): Promise<OLEntry> {
 
 type Curated = Record<
   string,
-  { blurb?: string; genres?: string[]; coverId?: number | null; year?: number; title?: string; author?: string }
+  {
+    blurb?: string;
+    genres?: string[];
+    coverId?: number | null;
+    /** null when the year is unknown (the export has a wrong one) */
+    year?: number | null;
+    title?: string;
+    author?: string;
+    /** leave the book off the shelf (e.g. a second edition of a book already there) */
+    hide?: boolean;
+  }
 >;
 
 function autoGenres(row: Row, ol: OLEntry | undefined): string[] {
@@ -397,12 +407,12 @@ async function main() {
   if (fromPath) await sanitize(resolve(process.cwd(), fromPath));
   if (!existsSync(paths.csv)) throw new Error("data/goodreads.csv not found. Pass --from <goodreads_library_export.csv>.");
 
+  const curated = await readJSON<Curated>(paths.curated, {});
   const rows = (await readRows()).filter((r) => {
     const shelf = (r["Exclusive Shelf"] ?? "").toLowerCase();
-    return shelf === "read" || shelf === "currently-reading";
+    return (shelf === "read" || shelf === "currently-reading") && !curated[r["Book Id"]]?.hide;
   });
   const cache = await readJSON<Cache>(paths.cache, { books: {}, palettes: {} });
-  const curated = await readJSON<Curated>(paths.curated, {});
   const report: string[] = [];
   const gidOf = (row: Row) => row["Book Id"] || slugify(`${row["Title"]}-${row["Author"]}`);
   const save = () => writeFile(paths.cache, JSON.stringify(cache, null, 1) + "\n");
@@ -447,7 +457,9 @@ async function main() {
     const palette = (coverId ? cache.palettes[String(coverId)] : null) ?? fallbackPalette(key);
     const genres = (cur.genres ?? autoGenres(row, ol)).filter((g) => (GENRES as readonly string[]).includes(g));
     const year =
-      cur.year ||
+      cur.year === null
+        ? 0
+        : cur.year ||
       num(row["Original Publication Year"]) ||
       ol?.firstPublishYear ||
       num(row["Year Published"]) ||
@@ -467,7 +479,7 @@ async function main() {
       book: {
         id: `${slugify(main, 28) || "libro"}-${gid}`,
         title,
-        author: cur.author ?? row["Author"],
+        author: cur.author ?? row["Author"].replace(/\s+/g, " ").trim(),
         genres,
         cover: coverId ? `https://covers.openlibrary.org/b/id/${coverId}-L.jpg` : "",
         year,

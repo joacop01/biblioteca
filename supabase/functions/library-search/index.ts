@@ -5,7 +5,7 @@
 // and the site quietly keeps its local ranking.
 
 // The published site's catalogue (written by scripts/import-goodreads.ts).
-const CATALOGUE_URL = Deno.env.get("CATALOGUE_URL") || "__CATALOGUE_URL__";
+const CATALOGUE_URL = Deno.env.get("CATALOGUE_URL") || "https://joacop01.github.io/biblioteca/catalogue.json";
 
 const hasKey = () =>
   Boolean(Deno.env.get("GEMINI_API_KEY") || Deno.env.get("OPENAI_API_KEY") || Deno.env.get("ANTHROPIC_API_KEY"));

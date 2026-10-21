@@ -2,7 +2,7 @@
 
 Los libros que leí, en un estante 3D que se puede recorrer: pasá el mouse por un lomo para sacarlo un poco, hacé clic para ver la tapa, buscá en lenguaje natural o recomendame un libro.
 
-Hecho a partir de la [guía de carollia99](https://github.com/carollia99/virtual-library-guide) con React, TypeScript, Tailwind y Vite. Se publica solo en GitHub Pages con cada push a `main`.
+Está publicada en **https://joacop01.github.io/biblioteca/**. Hecha a partir de la [guía de carollia99](https://github.com/carollia99/virtual-library-guide) con React, TypeScript, Tailwind y Vite. Cada push a `main` la vuelve a publicar: el workflow arma el sitio y lo sube a la rama `gh-pages`, que es la que sirve GitHub Pages.
 
 ## Actualizar los libros
 

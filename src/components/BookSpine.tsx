@@ -5,6 +5,11 @@ import { LIFT, PULL, coverDepth, faceFont, finishSheen, finishTexture } from "./
 
 const tint = (color: string, pct: number) => `color-mix(in srgb, ${color} ${pct}%, transparent)`;
 
+/** A cover that fails to load leaves the sampled spine color, not a broken-image icon. */
+const hideBroken = (e: React.SyntheticEvent<HTMLImageElement>) => {
+  e.currentTarget.style.visibility = "hidden";
+};
+
 function publisherMark(publisher: string): string {
   const words = publisher
     .replace(/\b(editorial|ediciones|editores|edicions|publishing|publishers|books|press|group|s\.?a\.?)\b/gi, "")
@@ -66,6 +71,7 @@ export function BookBody({ book, eager = false }: { book: Book; eager?: boolean 
             loading={loading}
             decoding="async"
             draggable={false}
+            onError={hideBroken}
             className="absolute inset-0 h-full w-full object-cover"
             style={{ objectPosition: "0% 50%" }}
           />
@@ -153,6 +159,7 @@ export function BookBody({ book, eager = false }: { book: Book; eager?: boolean 
             loading={loading}
             decoding="async"
             draggable={false}
+            onError={hideBroken}
             className="absolute inset-0 h-full w-full object-cover"
           />
         ) : (
